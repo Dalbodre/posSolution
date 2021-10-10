@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qCMA1i0b+rWcxnWHvgo1lPoxcuPpGARMISwhdCFVP0BdmGpjKICyO/MoNId5RMTdu043/9FbQeR2Xt+c+pmn1A==",
+  "dgSpecHash": "8FRWZlnWw9HH+jlTpgqObdCMxgFgl8TMuBCSgHhmiUNBzjAViB5kBuXbx3b++Ydvfmm1+gmeJizmMJYfh9BLYA==",
   "success": true,
   "projectFilePath": "C:\\dev\\ESC-POS-.NET\\ESCPOS_NET.ConsoleTest\\ESCPOS_NET.ConsoleTest.csproj",
   "expectedPackageFiles": [
@@ -36,8 +36,11 @@
     "C:\\Users\\Min Woo Kim\\.nuget\\packages\\escpos_net\\2.0.0\\escpos_net.2.0.0.nupkg.sha512",
     "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.0.3\\microsoft.netcore.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.0.3\\microsoft.netcore.app.host.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\Min Woo Kim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }
